@@ -266,7 +266,7 @@
 }
 
 .items img:hover {
-    border: 1px solid saddlebrown;
+    outline: 3px solid saddlebrown;
 }
 
 /* newsletter section styles */
